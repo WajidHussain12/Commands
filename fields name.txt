@@ -1,0 +1,30 @@
+user table me "UserName"  file me   U capital hai meri json me 
+
+
+user table me "Contact"  file me   C capital hai meri json me 
+
+
+
+user table me "Gender"  file me   G capital hai meri json me 
+
+user table me "Contact"  file me   C capital hai meri json me 
+
+user table me "Type"  file me   T capital hai meri json me 
+
+
+user table me "Address"  file me   A capital hai meri json me 
+
+
+user table me "Status"  file me   S capital hai meri json me 
+
+
+user table me "Email"  file me   E capital hai meri json me 
+
+
+
+
+
+Changes Existing Model
+
+public string Recipeimg { get; set; }   field ka naam change kiya hai "recipeImage"
+

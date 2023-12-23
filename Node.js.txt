@@ -1,0 +1,13 @@
+18.18.2    Node.js Version
+
+
+
+npm uninstall -g @angular/cli
+
+
+
+npm install -g @angular/cli@16.0.0
+
+
+
+npm show @angular/cli versions

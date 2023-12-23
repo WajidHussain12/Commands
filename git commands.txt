@@ -1,0 +1,40 @@
+# Check current global user information
+git config --global user.name
+git config --global user.email
+
+# Set or update global user information
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+
+# Set or update user information for a specific repository
+git config user.name "Your Name"
+git config user.email "your.email@example.com"
+
+
+
+
+git push --force origin master
+
+
+git push -u origin master
+
+git push origin master
+
+git pull origin master
+
+git pull origin master --allow-unrelated-histories
+
+
+
+
+See git All Commands
+
+git remote -v
+
+
+update the URL of an existing remote, you can use the following command:
+
+git remote set-url <remote-name> <new-remote-url>
+
+

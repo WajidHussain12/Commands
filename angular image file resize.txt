@@ -1,0 +1,4 @@
+  <ng-container *ngIf="i.image">
+                        <img [src]="i.image" class="card-img-top" alt="..."    [style.width.px]="285"
+                          [style.height.px]="304" />
+                      </ng-container>

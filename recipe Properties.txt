@@ -1,0 +1,19 @@
+public int recipeid { get; set; }
+[Required]        
+public string flavorName { get; set; }
+[Required]
+public string instructions { get; set; }
+[Required]
+public string ingredients { get; set; }
+[Required]
+public string cookingTime { get; set; }
+[Required]
+public string calories { get; set; }
+[Required]
+public string rating { get; set; }
+[Required]
+public string status { get; set; }
+[Required]
+public int authorId { get; set; }
+[Required]
+public string authorName { get; set; }
