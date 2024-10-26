@@ -27,6 +27,21 @@ git pull origin master --allow-unrelated-histories
 
 
 
+git init
+git add README.md
+git remote add origin https://github.com/WajidHussain12/Disaster-Management-System_.git	
+git branch -M master
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+git push -u origin master
+echo "" > .gitignore
+git status
+
+
+
+
 
 See git All Commands
 
